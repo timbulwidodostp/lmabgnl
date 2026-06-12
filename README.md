@@ -1,6 +1,8 @@
 # lmabgnl
 NLS (Nonlinear Least Squares) Autocorrelation Breusch-Godfrey Test at Higher Order AR(p) Use lmabgnl With STATA 19
 
+https://www.youtube.com/watch?v=IeAzbea8u7Q
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
